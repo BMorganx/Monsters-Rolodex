@@ -23,6 +23,12 @@
   color: #61dafb;
 }
 
+h1 {
+  font-family: 'Creepster', cursive;
+  font-size: 72px;
+  color: #ffc1db;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
